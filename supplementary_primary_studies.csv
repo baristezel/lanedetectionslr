@@ -1,0 +1,186 @@
+ID,Reference,Title,Year
+C1,"(Garnett, Cohen, Pe’er, Lahav & Levi, 2019).",3d-lanenet: end-to-end 3d multiple lane detection,2019
+C2,"(Getahun, Karimoddini & Mudalige, 2021).",a deep learning approach for lane detection,2021
+C3,"(Al Mamun, Em, Hossen, Jahan & Tahabilder, 2023).",a deep learning approach for lane marking detection applying encode-decode instant segmentation network,2023
+C4,"(Oğuz, Küçükmanisa, Duvar & Urhan, 2022).",a deep learning based fast lane detection approach *,2022
+C5,"(Yousri, Elattar & Darweesh, 2021).",a deep learning-based benchmarking framework for lane segmentation in the complex and dynamic road scenes,2021
+C6,"(Li, 2023).",a deeplabv3+-based investigation on lane line detection,2023
+C7,"(Zhu, Yin & Wang, 2019).",a faster semantic segmentation method for lane detection,2019
+C8,"(Dong, Patil, Van Arem & Farah, 2023).",a hybrid spatial-temporal deep learning architecture for lane detection,2023
+C9,"(Li, Qu, Liu, Sun & Wang, 2020).",a lane detection network based on ibn and attention,2020
+C10,"(Fallah, Soleymani & Khosravi, 2022).",a method for automatic lane detection using a deep network,2022
+C11,"(Lu, Tan & Ding, 2020).",a modular lane detection method based on scene understanding,2020
+C12,"(Zhang, Han, Wang, Qiao & Lin, 2021).",a network that balances accuracy and efficiency for lane detection,2021
+C13,"(Yousri, Moussa, Elattar, Madian & Darweesh, 2024).",a novel data augmentation approach for ego-lane detection enhancement,2024
+C14,"(Bataineh, 2023).",a novel ego lanes detection method for autonomous vehicles,2023
+C15,"(Zou et al., 2022).",a novel multimodal fusion network based on a joint coding model for lane line segmentation,2022
+C16,"(Zheng, Xie, Li, Xie & Li, 2022).",a novel strategy for global lane detection based on key-point regression and multi-scale feature fusion,2022
+C17,"(Yousri, Mostafa, et al., 2021).",a real-time approach based on deep learning for ego-lane detection,2021
+C18,"(Yusuf, Karim & Saif, 2020).",a robust method for lane detection under adverse weather and illumination conditions using convolutional neural network,2020
+C19,"(Sun, Wang, Chen & Liu, 2019).",accurate lane detection with atrous convolution and spatial pyramid pooling for autonomous driving,2019
+C20,"(Peng, Wang, Liu & Yang, 2021).",active learning for lane detection: a knowledge distillation approach,2021
+C21,"(Ren, Zhou, Yang, Liu & He, 2022).",adpnet: attention based dual path network for lane detection,2022
+C22,"(Himakumar et al., 2023).",an autonomous driving system for image based lane segmentation,2023
+C23,"(Guo, Shi & Qin, 2021).",an effective module ca-hdc for lane detection in complicated environment,2021
+C24,"(Al Mamun, Em & Hossen, 2021).",an efficient encode-decode deep learning network for lane markings instant segmentation,2021
+C25,"(Wang, Zhang & Zhu, 2020).",an improved algorithm for instance segmentation lane detection of two branches,2020
+C26,"(Rassabin, Yagfarov & Gafurov, 2019).",approaches for road lane detection,2019
+C27,"(Xiao, Yang, Li & Islam, 2020).",attention deep neural network for lane marking detection,2020
+C28,"(Alajlan & Almasri, 2022).",automatic lane marking prediction using convolutional neural network and s-shaped binary butterfly optimization,2022
+C29,"(Liu, Deng, Lei, Jiang & Piao, 2021).","autonomous lane keeping system: lane detection, tracking and control on embedded system",2021
+C30,"(Yang, Shen et al., 2023).",canet: curved guide line network with adaptive decoder for lane detection,2023
+C31,"(Zheng, Huang et al., 2022).",clrnet: cross layer refinement network for lane detection,2022
+C32,"(Liu, Chen, Zhu & Tan, 2021).",condlanenet: a top-to-down lane detection framework based on conditional convolution,2021
+C33,"(Soni, Padamwar & Konda, 2021).",contextual road lane and symbol generation for autonomous driving,2021
+C34,"(Ganeriwala, Bhattacharyya & Muthalagu, 2023).",cross dataset analysis and network architecture repair for autonomous car lane detection,2023
+C35,"(Bai et al., 2023).",curveformer: 3d lane detection by curve propagation with curve queries and attention,2023
+C36,"(Nguyen, 2023).",deep feature fusion network for lane line segmentation in urban traffic scenes,2023
+C37,"(Kaushal et al., 2023).",deep learning based segmentation approach for automatic lane detection in autonomous vehicle,2023
+C38,"(Zhao, Wang & Li, 2020).",deep reinforcement learning based lane detection and localization,2020
+C39,"(Arfian, Azis, Nazaruddin & Nadhira, 2023).",development of lane marking detection and classification for perception system in autonomous vehicles,2023
+C40,"(Yao, Wu, Wang & Ding, 2022).",devnet: deviation aware network for lane detection,2022
+C41,"(Cheng, Zhang, Wang & Zhou, 2022).",DILane: dynamic instance-aware network for lane detection,2022
+C42,"(Qian, Dolan & Yang, 2019).","dlt-net: joint detection of drivable areas, lane lines, and traffic objects",2019
+C43,"(Yang, Lin, Jiang, Lu & Wang, 2023).",dqformer: dynamic query transformer for lane detection,2023
+C44,"(Zhang, Deng, Yan & Liu, 2021).",drstnet: a robust spatio-temporal network with dilated residual convolutions for lane detection,2021
+C45,"(Ran, Yin, Huang & Bao, 2022).",eafmnet: an efficient attention fusion mechanism for lane detection,2022
+C46,"(Jhong, Ko, Su, Hua & Chen, 2023).",efficient lane detection based on feature aggregation for advanced driver assistance systems,2023
+C47,"(Yao & Chen, 2022).",efficient lane detection technique based on lightweight attention deep neural network,2022
+C48,"(Li, Wu & Wu, 2023).",efficient multi-lane detection based on large-kernel convolution and location,2023
+C49,"(Ghafoorian, Nugteren, Baka, Booij & Hofmann, 2018).",el-gan: embedding loss driven generative adversarial networks for lane detection,2018
+C50,"(Lee & Liu, 2023).",end-to-end deep learning of lane detection and path prediction for real-time autonomous driving,2023
+C51,"(Van Gansbeke, De Brabandere, Neven, Proesmans & Van Gool, 2019).",end-to-end lane detection through differentiable least-squares fitting,2019
+C52,"(Kumar, Pandey & Varshney, 2024).",exploring the impact of deep learning models on lane detection through semantic segmentation,2024
+C53,"(Zeng et al., 2023).",fast lane detection based on attention mechanism,2023
+C54,"(Liu, Huang, Yan & Chen, 2023).",fast lane detection based on sparse prediction,2023
+C55,"(Tan, Li & Yan, 2023).",fast lane detection for extracting spatial location information,2023
+C56,"(Kim, Kim, Jang & Lee, 2017).",fast learning method for convolutional neural networks using extreme learning machine and its application to lane detection,2017
+C57,"(Pang, Zhang, Teng, Ma & Fan, 2022).",fast-hbnet: hybrid branch network for fast lane detection,2022
+C58,"(Philion, 2019).",fastdraw: addressing the long tail of lane detection by adapting a sequential prediction network,2019
+C59,"(Haixia & Xizhou, 2021).",flexible lane detection using cnns,2021
+C60,"(Nie et al., 2022).",foggy lane dataset synthesized from monocular images for lane detection algorithms,2022
+C61,"(Zakaria, Zamzuri et al., 2018).",fully convolutional neural network for malaysian road lane detection,2018
+C62,"(Zhang, Xu, Ni & Duan, 2018).",geometric constrained joint lane segmentation and lane boundary detection,2018
+C63,"(Zhao, Yue, Sun & Xie, 2020).",geometry embedded multi-task network for lane detection and classification,2020
+C64,"(Wu, Cui & Dahnoun, 2020).",gradient map based lane detection using cnn and rnn,2020
+C65,"(Zakaria et al., 2020).",gradient-based edge effects on lane marking detection using a deep learning-based approach,2020
+C66,"(Danso et al., 2022).",harnessing keypoints with deep metric learning for lane line instance segmentation,2022
+C67,"(Gao, Hu et al., 2023).",high-order deep infomax-guided deformable transformer network for efficient lane detection,2023
+C68,"(Shirke & Udayakumar, 2022).",hybrid optimisation dependent deep belief network for lane detection,2022
+C69,"(Piao, Deng & Liu, 2021).",improved lane detection network based on instance segmentation,2021
+C70,"(Yang, Cheng & Chung, 2019).",improved lane detection with multilevel features in branch convolutional neural networks,2019
+C71,"(Chen, Xiang & Du, 2023).",improving lane detection with adaptive homography prediction,2023
+C72,"(Liu, Feng, Zhao, Li & Chen, 2023).",improving the accuracy of lane detection by enhancing the long-range dependence,2023
+C73,"(Tabelini et al., 2021).",keep your eyes on the lane: real-time attention-guided lane detection,2021
+C74,"(Ko, Lee et al., 2021).",key points estimation and point instance segmentation approach for lane detection,2021
+C75,"(Baojun Zhang & Y. Qiu, 2021).",lane detection algorithm based on dilated convolution network,2021
+C76,"(Pizzati, Allodi, Barrera & Garc´ıa, 2020).",lane detection and classification using cascaded cnns,2020
+C77,"(Ren, Huang & Ogai, 2022).",lane detection based on deep learning and ssim method,2022
+C78,"(Song, Wang, Wang & Li, 2022).",lane detection based on ibn deep neural network and attention,2022
+C79,"(Yan, Hu & Zhang, 2021).",lane detection based on improved FCN,2021
+C80,"(Dai, Xie, Qian & Yang, 2020).",lane detection combining details and integrity: an advanced method for lane detection,2020
+C81,"(Kumar, Gupta, Sinha & Vyas, 2021).",lane detection for autonomous vehicle in hazy environment with optimized deep learning techniques,2021
+C82,"(Dewangan & Sahu, 2023).",lane detection in intelligent vehicle system using optimal 2-tier deep convolutional neural network,2023
+C83,"(Liu, Chen, Yang, Wu & Li, 2020).",lane detection in low-light conditions using an efficient data enhancement: light conditions style transfer,2020
+C84,"(Ye, Hao & Chen, 2018).",lane detection method based on lane structural analysis and cnns,2018
+C85,"(Lou et al., 2023).",lane detection method under low-light conditions combining feature aggregation and light style transfer,2023
+C86,"(Piao & Lu, 2019).",lane detection of unstructured roads based on ws-p2pnet,2019
+C87,"(Ab Ghani et al., 2023).",lane detection using deep learning for rainy conditions,2023
+C88,"(Khan et al., 2020).",lane detection using lane boundary marker network with road geometry constraints,2020
+C89,"(Haris, Hou & Wang 2023).",lane line detection and departure estimation in a complex environment by using an asymmetric kernel convolution algorithm,2023
+C90,"(Shen, Lu, Zhang & Xue, 2021).",lane line detection based on parallel spatial separation convolution,2021
+C91,"(Haris, Hou & Wang, 2022).",lane lines detection under complex environment by fusion of detection and prediction models,2022
+C92,"(Tabelini, Berriel, De Souza, Badue & Oliveira-Santos, 2022).",lane marking detection and classification using spatial-temporal feature pooling,2022
+C93,"(Al Mamun, Em & Hossen, 2021).",lane marking detection using simple encode decode deep learning technique: segnet,2021
+C94,"(Tian, Gelernter et al., 2018).",lane marking detection via deep convolutional neural network,2018
+C95,"(Munir, Azam, Jeon, Lee & Pedrycz, 2021).",ldnet: end-to-end lane marking detection approach using a dynamic vision sensor,2021
+C96,"(Hou, Ma, Liu & Loy, 2019).",learning lightweight lane detection cnns by self attention distillation,2019
+C97,"(Yang, Ma, et al., 2023).",lightweight lane line detection based on learnable cluster segmentation with self-attention mechanism,2023
+C98,"(Yang, Yu et al., 2023).",lightweight lane marking detection cnns by self soft label attention,2023
+C99,"(Khan, Haque et al., 2022).",lldnet: a lightweight lane detection approach for autonomous cars using deep learning,2022
+C100,"(Qiu, Zhao & Sun, 2022).",mfialane: multiscale feature information aggregator network for lane detection,2022
+C101,"(Wang, Yue et al., 2022).",mining image semantics via deep learning: a robust lane detection approach for autonomous driving,2022
+C102,"(Zhu, Yuhao et al., 2021).",mpr-net: multi-scale key points regression for lane detection,2021
+C103,"(Özen, Kaya, Semiz & Çelebi, 2023).",multi-lane detection system based on segmentation model for autonomous vehicles,2023
+C104,"(Park & Park, 2023).",multi-lane recognition using the yolo network with rotatable bounding boxes,2023
+C105,"(Haris, Hou & Wang, 2021).",multi-scale spatial convolution algorithm for lane line detection and lane offset estimation in complex road conditions,2021
+C106,"(Bachu et al., 2022).",multi-stage attention-pooling network for lane marking detection,2022
+C107,"(Garg et al., 2022).",multi-stage pyramid parsing network for lane marking detection,2022
+C108,"(Pan, Chang & Sun, 2023).",multitask knowledge distillation guides end-to-end lane detection,2023
+C109,"(Chen, Pan, Lin & Huang, 2020).",non-local spatial information based lane detection,2020
+C110,"(Xia & Xu, 2022).",overcoming catastrophic forgetting in lane detection,2022
+C111,"(Ho & Yang, 2023).",parallel shortened spatial attention module for effective and precision lane detection,2023
+C112,"(Mengyu, Chu & Cho, 2022).",perspective transformer and mobilenets-based 3d lane detection from single 2d image,2022
+C113,"(Zhao, Xiang et al., 2022).",point instance segmentation considering feature enhancement for lane detection,2022
+C114,"(Chae et al., 2023).",point2lane: polyline-based reconstruction with principal points for lane detection,2023
+C115,"(Chen, Liu & Lian, 2019).",pointlanenet: efficient end-to-end cnns for accurate real-time lane detection,2019
+C116,"(Yang, Tian et al., 2024).",polylanenet plus plus : enhancing the polynomial regression lane detection based on spatio-temporal fusion,2024
+C117,"(Wang, Wang & Zhang, 2020).",polynomial regression network for variable-number lane detection,2020
+C118,"(Qiu, Gao, Hua, Huang & He, 2023).",priorlane: a prior knowledge enhanced lane detection approach based on transformer,2023
+C119,"(Zhang, Yan & Wang, 2020).",quality-guided lane detection by deeply modeling sophisticated traffic context,2020
+C120,"(Lam, Du & Pham, 2023).",quantlanenet: a 640-fps and 34-gops/w fpga-based cnn accelerator for lane detection,2023
+C121,"(Chen & Luo, 2021).",real-time lane detection based on a light-weight model in the wild,2021
+C122,"(Baek et al., 2022).",real-time lane detection based on deep learning,2022
+C123,"(Wenfei Ding, Sun & Ma, 2022).",research on curve lane detection method based on deep learning,2022
+C124,"(Yan, 2022).",research on lane detection method based on deep learning,2022
+C125,"(Yang, 2019).",research on lane recognition algorithm based on deep learning,2019
+C126,"(Singal et al., 2023).",roadway: lane detection for autonomous driving vehicles via deep learning,2023
+C127,"(Lee, Lee, Lee et al., 2022).",robust lane detection via expanded self attention,2022
+C128,"(Chng, Lew & Lee, 2021).",roneld: robust neural network output enhancement for active lane detection,2021
+C129,"(Paek, Wijaya & Kong, 2022).",row-wise lidar lane detection network with lane correlation refinement,2022
+C130,"(Almeida, Santos & Louren¸co, 2020).",scalable ros-based architecture to merge multi-source lane detection algorithms,2020
+C131,"(Chen, Du, et al., 2019).",self-supervised homography prediction cnn for accurate lane marking fitting,2019
+C132,"(Lin, Pintea & Gemert, 2021).",semi-supervised lane detection with deep hough transform,2021
+C133,"(Yu, Wu, Suo & Su, 2023).",shallow detail and semantic segmentation combined bilateral network model for lane detection,2023
+C134,"(Zhang, Gu, Wang, Wang & Pan, 2021).",sololanenet: instance segmentation-based lane detection method using locations,2021
+C135,"(Huang, Chen, Chen, Jian & Zheng, 2018).",spatial-temproal based lane detection using deep learning,2018
+C136,"(Wang, Guo, Lin, Cheng & Wu, 2022).",spatio-temporal fusion-based monocular 3d lane detection,2022
+C137,"(Fan, Wang, Hou, Liu & Mu, 2019).",spinnet: spinning convolutional network for lane boundary detection,2019
+C138,"(Zhang, Du, Shi et al., 2023).",st-mae: robust lane detection in continuous multi-frame driving scenes based on a deep hybrid network,2023
+C139,"(Xiao, Zhuo, Ji & Li, 2021).",structure-prior deep neural network for lane detection,2021
+C140,"(Lu, Cui, Xu, Peng & Wang, 2021).",super: a novel lane detection system,2021
+C141,"(Jayasinghe et al., 2021).",swiftlane: towards fast and efficient lane detection,2021
+C142,"(Garnett, Uziel, Efrat & Levi, 2020).",synthetic-to-real domain adaptation for lane detection,2020
+C143,"(Zhang, Deng & Yan, 2022).",tarconvgru: a cross-dimension spatiotemporal model for lane detection,2022
+C144,"(Wang, Zhao, Tian, Zhang & Gao, 2022).",the improved deeplabv3plus based fast lane detection method,2022
+C145,"(Neven, De Brabandere, Georgoulis, Proesmans & Van Gool, 2018).",towards end-to-end lane detection: an instance segmentation approach,2018
+C146,"(Dai, Li, Wang, Li & Liu, 2022).",towards extreme learning machine framework for lane detection on unmanned mobile robot,2022
+C147,"(Nugraha & Su, 2017).",towards self-driving car using convolutional neural network and road lane detector,2017
+C148,"(Guo, Xie & Yang, 2022).",twin non-local attention network with frame-similarity loss for video instance lane detection,2022
+C149,"(Che, Nguyen, Pham & Lam, 2023).",twinlitenet: an efficient and lightweight model for driveable area and lane segmentation in self-driving cars,2023
+C150,"(Wang, Jiang et al., 2023).",two-stage lane detection based on attention mechanism and post-processing of prediction,2023
+C151,take from latex,validation of machine learning-based lane lines detection methods using different datasets,2023
+C152,"(Zhang, Zhu et al., 2021).",vil-100: a new dataset and a baseline model for video instance lane detection,2021
+C153,"(Ai, Ding, Zhao & Zhong, 2023).",ws-3d-lane: weakly supervised 3d lane detection with 2d lane labels,2023
+C154,"(Chai, Wang & Zhang, 2024).",a fast and accurate lane detection method based on row anchor and transformer structure,2024
+C155,"(Zoljodi, Abadijou, Alibeigi & Daneshtalab, 2024).",contrastive learning for lane detection via cross-similarity,2024
+C156,"(Yang & Ho, 2024).",csa-lanenet: a contiguous spatial attention lane detection network with vision transformer modules,2024
+C157,"(Fan, Wang, Chen & Peng, 2024).",ctfnet: coarse-to-fine segmented lane line detection in complex road conditions,2024
+C158,"(Jaiswal & Mohan, 2024).",deep learning-based path tracking control using lane detection and traffic sign detection for autonomous driving,2024
+C159,"(Santhiya, Jebadurai, Paulraj, Jenefa & Kiruba, 2024).",deep vision: lane detection in its: a deep learning segmentation perspective,2024
+C160,"(Maddiralla & Subramanian, 2024).",effective lane detection on complex roads with convolutional attention mechanism in autonomous vehicles,2024
+C161,"(Li, Ma, Han, Mu & Jiang, 2024).",enhanced scnn-based hybrid spatial-temporal lane detection model for intelligent transportation systems,2024
+C162,"(Zhou & Zhang, 2024).",ff-hpinet: a flipped feature and hierarchical position information extraction network for lane detection,2024
+C163,"(Zakaria, Shapiai, Abd Ghani, Wahid & Lai, 2024).",fully convolutional network model applied attention mechanism on kitti lane dataset for lane detection,2024
+C164,"(Zhao, Qiu, Hu & Sun, 2024).",hwlane: hw-transformer for lane detection,2024
+C165,"(Jhong, Chen, Hsia & Lai, 2024).",ivehicles: spatial feature aggregation network for lane detection assistance system,2024
+C166,"(Liu, Wang & Li, 2024).",lane detection based on real-time semantic segmentation for end-to-end autonomous driving under low-light conditions,2024
+C167,"(Shi, Zhao, Wang & Tang, 2024).",lane detection by variational auto-encoder with normalizing flow for autonomous driving,2024
+C168,"(Lin, 2024).",lane detection for autonomous driving based on fastscnn,2024
+C169,"(Lin & Chang, 2024).",lane detection networks based on deep neural networks and temporal information,2024
+C170,"(Yang, Gu, Hu, Li & Nian, 2024).",lane detection via sparse instance activation,2024
+C171,"(Pahk et al., 2024).",lane segmentation data augmentation for heavy rain sensor blockage using realistically translated raindrop images and carla simulator,2024
+C172,"(Pittner, Janai & Condurache, 2024).",lanecpp: continuous 3d lane detection using physical priors,2024
+C173,"(Liu, Zhu, Wan & Wang, 2024).",masked frequency-color fusion network for video instance-level hazy lane detection,2024
+C174,"(Lin, Ye, Chen & Tang, 2024).",multi-dimensional search with strip convolution and r-squared loss for lane detection,2024
+C175,"(Kim & Choi, 2024).",polylanedet: lane detection with free-form polyline,2024
+C176,"(Zhang, Wang, Deng & Lei, 2024).",position encoding for 3d lane detection via perspective transformer,2024
+C177,"(Santhiya, Jebadurai, Paulraj, Ebenezer, 2024).",precision in motion enhancing autonomous driving with advanced lane recognition using high resolution network,2024
+C178,"(Feng, Yang, Chen, Li & Kang, 2024).",pseudo-multimodal lane segmentation method based on inaccurate depth information for intelligent vehicles,2024
+C179,"(Huang, Wang et al., 2024).",recurrent cross attention mechanism for improved robustness and real-time performance in lane detection,2024
+C180,"(Yao, Wang et al., 2024).",semi-supervised domain adaptation with dual-adversarial learning for lane detection,2024
+C181,"(Tan, Zhang & Zhu, 2024).",smfrnet: complex scene lane detection with start point-guided multi-dimensional feature refinement,2024
+C182,"(Du, Zhang, Shi et al., 2024).",st-lanenet: lane line detection method based on swin transformer and lanenet,2024
+C183,"(Almeida, Ribeiro & Conceicao, 2024).",transfer learning-based lane line detection system for visual path following control,2024
+C184,"(Faizi & Al-sulaifanie, 2024).",vision based multi-stages lane detection algorithm,2024
+C185,"(Gu, Huang & Du, 2024).",Lane Detection Based on ECBAM_ASPP Model,2024
